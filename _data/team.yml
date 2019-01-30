@@ -5,7 +5,11 @@ people:
   pic: alexsu
   position: Data Engineer
   social:
+    - icon: fab fa-twitter
+      url: https://twitter.com/siansiansu
     - icon: fab fa-github
       url: https://github.com/siansiansu
+    - icon: fab fa-linkedin
+      url: https://www.linkedin.com/in/minsian
     - icon: fa fa-envelope
       url: minsiansu@gmail.com
