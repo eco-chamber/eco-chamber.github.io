@@ -1,11 +1,11 @@
 # Social icon names are the fully qualified
 #   Font-Awesome Icon names as found here: https://fontawesome.com/v4.7.0/icons/
 people:
-- name: WanJyunChen
-  pic: WanJyunChen
-  position: 特有生物保育研究中心副研究員
+- name: Alex Su
+  pic: alexsu
+  position: Data Engineer
   social:
     - icon: fab fa-github
-      url: https://github.com/WanJyunChen
+      url: https://github.com/siansiansu
     - icon: fa fa-envelope
-      url: wanjyunchen@gmail.com
+      url: minsiansu@gmail.com
