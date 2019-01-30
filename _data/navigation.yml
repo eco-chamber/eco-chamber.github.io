@@ -1,70 +1,51 @@
-- title: Start
+- title: 首頁
   url: "/"
   side: left
 
-- title: Getting Started
-  url: "/getting-started/"
-  side: left
-
-- title: "Templates"
-  url: "/design/"
+- title: "eco-chamber"
+  url: "/eco-chamber/"
   side: left
   dropdown:
-  - title: "Grid & Colors"
-    url: "/design/grid/"
-  - title: "Typography"
-    url: "/design/typography/typography/"
-  - title: "Page/Post"
-    url: "/design/page/"
-  - title: "Post-Left-Sidebar"
-    url: "/design/post-left-sidebar/"
-  - title: "Post-Right-Sidebar"
-    url: "/design/post-right-sidebar/"
-  - title: "Page Full-Width"
-    url: "/design/page-fullwidth/"
-  - title: "Blog-Page"
-    url: "/blog/"
-  - title: "Video"
-    url: "/design/video/"
-  - title: "Gallery"
-    url: "/design/gallery/"
-  - title: "Portfolio"
-    url: "/design/portfolio/"
+  - title: "什麼是eco-chamber？"
+    url: "/eco-chamber/about/"
+  - title: "我們是誰"
+    url: "/eco-chamber/people/"
+  - title: "行為守則"
+    url: "https://eco-chamber.github.io/handbook"
 
-- title: "Header Styles"
-  url: "/headers/"
+- title: "加入我們"
+  url: "/join/"
   side: left
   dropdown:
-  - title: "Header with Full-Width-Image"
-    url: "/design/header-full-width-image/"
-  - title: "Header with Image and Pattern"
-    url: "/design/header-image-pattern/"
-  - title: "Header with image and color"
-    url: "/design/header-image-color/"
-  - title: "Header Only With Logo"
-    url: "/design/header-logo-only/"
-  - title: "Header With Text"
-    url: "/design/header-with-text/"
-  - title: "No Header"
-    url: "/design/no-header/"
-  - title: "No Header but Image"
-    url: "/design/no-header-but-image/"
+  - title: "歡迎加入我們!"
+    url: "/join/welcome/"
+  - title: "一步步教你如何協作專案"
+    url: "/join/step-by-step/"
 
-- title: Documentation
-  url: "/documentation/"
+
+- title: "工作坊"
+  url: "/workshop/"
   side: left
   dropdown:
-  - title: "Changelog"
-    url: "/changelog/"
-  - title: "Roadmap"
-    url: "/roadmap/"
+  - title: "未來工作坊"
+    url: "/future/"
+  - title: "工作坊資料庫"
+    url: "/database/"
 
-- title: Blog
-  url: "/blog/"
+- title: 線上課程
+  url: "/lession/"
   side: left
   dropdown:
-  - title: "Blog Archive"
-    url: "/blog/archive/"
+  - title: "Shell"
+    url: "/shell-novice-tw-zh/"
+  - title: "Git"
+    url: ""
+  - title: "生態學"
+    url: "https://eco-chamber.github.io/ecology/"
+  - title: "空間地理學"
+    url: "https://eco-chamber.github.io/geospatial/"
+  - title: "基因體學"
+    url: "/genomics-workshop-zh-tw/"
 
 - title: "Search"
   url: "/search/"
