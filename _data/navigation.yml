@@ -9,7 +9,7 @@
   - title: "什麼是eco-chamber？"
     url: "/eco-chamber/about/"
   - title: "我們是誰"
-    url: "/eco-chamber/people/"
+    url: "/team/"
   - title: "行為守則"
     url: "https://eco-chamber.github.io/handbook"
 
@@ -33,11 +33,11 @@
     url: "/database/"
 
 - title: 線上課程
-  url: "/lession/"
+  url: "/lessons/"
   side: left
   dropdown:
   - title: "Shell"
-    url: "/shell-novice-tw-zh/"
+    url: "https://eco-chamber.github.io/shell-novice-tw-zh/"
   - title: "Git"
     url: ""
   - title: "生態學"
@@ -45,7 +45,7 @@
   - title: "空間地理學"
     url: "https://eco-chamber.github.io/geospatial/"
   - title: "基因體學"
-    url: "/genomics-workshop-zh-tw/"
+    url: "https://eco-chamber.github.io/genomics-workshop-zh-tw/"
 
 - title: "Search"
   url: "/search/"
