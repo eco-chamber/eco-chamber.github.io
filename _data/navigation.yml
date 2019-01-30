@@ -7,7 +7,7 @@
   side: left
   dropdown:
   - title: "什麼是eco-chamber？"
-    url: "/eco-chamber/about/"
+    url: "/about/"
   - title: "我們是誰"
     url: "/team/"
   - title: "行為守則"
@@ -18,9 +18,9 @@
   side: left
   dropdown:
   - title: "歡迎加入我們!"
-    url: "/join/welcome/"
+    url: "/welcome/"
   - title: "一步步教你如何協作專案"
-    url: "/join/step-by-step/"
+    url: "/step-by-step/"
 
 
 - title: "工作坊"
