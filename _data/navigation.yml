@@ -37,15 +37,15 @@
   side: left
   dropdown:
   - title: "Shell"
-    url: "https://eco-chamber.github.io/shell-novice-tw-zh/"
+    url: "shell-novice-tw-zh/"
   - title: "Git"
-    url: ""
+    url: "shell-novice-tw-zh/"
   - title: "生態學"
-    url: "https://eco-chamber.github.io/ecology/"
+    url: "shell-novice-tw-zh/"
   - title: "空間地理學"
-    url: "https://eco-chamber.github.io/geospatial/"
+    url: "shell-novice-tw-zh/"
   - title: "基因體學"
-    url: "https://eco-chamber.github.io/genomics-workshop-zh-tw/"
+    url: "genomics-workshop-zh-tw/"
 
 - title: "Search"
   url: "/search/"
