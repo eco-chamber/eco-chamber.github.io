@@ -27,6 +27,7 @@ description: 'Make Ecology Great Again'
 #
 url: ''
 baseurl: 'https://eco-chamber.github.io'
+filesurl: 'https://eco-chamber.github.io/files'
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
