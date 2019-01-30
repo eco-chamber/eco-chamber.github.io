@@ -37,15 +37,9 @@
   side: left
   dropdown:
   - title: "Shell"
-    url: "shell-novice-tw-zh/"
-  - title: "Git"
-    url: "shell-novice-tw-zh/"
-  - title: "生態學"
-    url: "shell-novice-tw-zh/"
-  - title: "空間地理學"
-    url: "shell-novice-tw-zh/"
+    url: "/shell-novice-tw-zh/"
   - title: "基因體學"
-    url: "genomics-workshop-zh-tw/"
+    url: "/genomics-workshop-zh-tw/"
 
 - title: "Search"
   url: "/search/"
