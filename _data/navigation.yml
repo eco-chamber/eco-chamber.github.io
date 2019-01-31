@@ -41,10 +41,10 @@
   - title: "基因體學"
     url: "/genomics-workshop-zh-tw/"
 
-- title: "Search"
+- title: "搜尋"
   url: "/search/"
   side: right
 
-- title: "Contact"
+- title: "聯絡我們"
   url: "/contact/"
   side: right
